@@ -1,2 +1,2 @@
-# display-password
-A Drupal module to add capability for login form to show the password entered by user.
+# Display Password
+A Drupal module to add the capability for a login form to show the password entered by the user.
